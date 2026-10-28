@@ -1,0 +1,3 @@
+Model;Średnia dokładność (CV);Odchylenie std (CV);Czas trenowania [s];Złożoność kodu
+scikit-learn;0.9887301587301588;0.013804961844545337;0.005212306976318359;Niska (Pipeline)
+PyTorch;0.9830158730158731;0.022779851683695552;0.07539534568786621;Wysoka (Tensory i Pętla)
